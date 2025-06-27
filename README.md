@@ -1,5 +1,31 @@
 # 💫 About Me:
-👋 About Me<br><br>Hi there! I'm Tio Fulalo Simatupang, an enthusiastic Informatics Engineering student from Universitas Prima Indonesia with a perfect GPA of 4.00 🎓. I’m passionate about building digital solutions that matter — from AI-driven healthcare systems to eco-conscious apps that help protect our environment 🌱.<br><br>🚀 I thrive in collaborative environments and love crafting full-stack applications that are intuitive, impactful, and scalable. Whether it's coding a mobile app, designing a clean UI, or deploying cloud-based solutions — I enjoy the challenge of bringing ideas to life.<br><br>💡 My recent projects include:<br>- 🤖 AI-Based Waste Classification App (Web + Mobile)<br>- 🧠 MRI Brain Tumor Classifier with Deep Learning<br>- 🩺 Health Screening Platform for a non-profit foundation<br>- 📚 Scientific Journal Information System with a chatbot assistant<br><br>🎯 I aim to contribute to the tech ecosystem through innovation, collaboration, and a strong commitment to continuous learning. My dream is to join spaces like the Apple Developer Academy and grow with world-class talent.<br><br>---<br><br>💻 Tech Stack<br>Languages:  HTML • CSS • JavaScript • PHP • Python<br>Frameworks: ReactJS • NodeJS • Laravel • Django • Flutter<br>Tools:      Git • VSCode • MySQL • Firebase • Azure • Excel<br>
+
+Hello! I'm **Tio Fulalo Simatupang** — a passionate Informatics Engineering undergraduate from **Universitas Prima Indonesia**, based in Medan 🇮🇩, with a stellar GPA of **4.00**.
+
+I’m a **tech enthusiast** and **problem-solver** who finds joy in building digital solutions that positively impact the world around us. With a strong foundation in full-stack development and deep learning, I’ve worked on several real-world projects ranging from **AI-powered applications** to **community-driven health platforms**.
+
+---
+
+### 🚀 What Drives Me
+I believe technology is more than just code — it’s a tool to **empower communities**, **streamline processes**, and **make life better**. Whether I’m creating an app to classify waste using AI, or developing a health screening system for underrepresented communities, I always focus on impact, usability, and sustainability.
+
+I'm particularly passionate about:
+- 🌿 **Tech for Good** — building digital tools that solve environmental and societal issues
+- 🧠 **AI & Deep Learning** — leveraging models like ResNet and ViT for smart classification tasks
+- 🧩 **UI/UX Design** — designing user-friendly, inclusive, and beautiful interfaces
+- 🔁 **Continuous Learning** — always seeking new technologies, best practices, and creative inspiration
+
+---
+
+### 🛠️ Technical Toolbox
+
+```yaml
+Languages:     JavaScript • Python • PHP • HTML • CSS
+Frameworks:    ReactJS • Laravel • NodeJS • Django • Flutter
+Database:      MySQL • Firebase
+AI/ML:         TensorFlow • TFLite • ResNet • ViT (Vision Transformer)
+Tools & Cloud: Git • VSCode • Azure • Excel • Figma • Postman
+
 
 
 ## 🌐 Socials:
