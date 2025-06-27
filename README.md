@@ -17,16 +17,6 @@ I'm particularly passionate about:
 
 ---
 
-### 🛠️ Technical Toolbox
-
-```yaml
-Languages:     JavaScript • Python • PHP • HTML • CSS
-Frameworks:    ReactJS • Laravel • NodeJS • Django • Flutter
-Database:      MySQL • Firebase
-AI/ML:         TensorFlow • TFLite • ResNet • ViT (Vision Transformer)
-Tools & Cloud: Git • VSCode • Azure • Excel • Figma • Postman
-
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lalosianturi21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lalosianturi21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tio-fulalo-simatupang-5b9547210) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22319848) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iloser123456) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCsHNMJUY7yS_AeVEVkwXuyA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fulalotio@gmail.com) 
